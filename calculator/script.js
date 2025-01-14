@@ -1,4 +1,4 @@
-
+//comments
     function calculate() {
       const num1 = parseFloat(document.getElementById('num1').value);
       const operator = document.getElementById('operator').value.trim();
